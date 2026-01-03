@@ -104,8 +104,9 @@ All data preprocessing, analysis, and modelling procedures are fully documented 
 ---
 
 ## Author
-MSc Dissertation Project  
-Business Analytics  
+Hassan Waheed
+0014218771
+MSc Business Analytics Project    
 
 ---
 
